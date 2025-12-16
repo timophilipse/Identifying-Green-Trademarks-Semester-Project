@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sentence-transformers
+setfit
+datasets
+openai
+python-dotenv
+pydantic
+tqdm
